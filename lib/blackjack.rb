@@ -23,6 +23,7 @@ end
 
 def end_game
   # code #end_game here
+  puts "sorry! your card total is: #{card_total}, sorry your done son!"
 end
 
 def initial_round
